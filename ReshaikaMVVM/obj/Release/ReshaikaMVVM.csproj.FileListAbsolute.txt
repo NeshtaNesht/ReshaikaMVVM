@@ -1,0 +1,129 @@
+L:\Разработки C#\ReshaikaMVVM\ReshaikaMVVM\bin\Release\ReshaikaMVVM.exe.config
+L:\Разработки C#\ReshaikaMVVM\ReshaikaMVVM\bin\Release\ReshaikaMVVM.exe
+L:\Разработки C#\ReshaikaMVVM\ReshaikaMVVM\bin\Release\ReshaikaMVVM.pdb
+L:\Разработки C#\ReshaikaMVVM\ReshaikaMVVM\bin\Release\CommonServiceLocator.dll
+L:\Разработки C#\ReshaikaMVVM\ReshaikaMVVM\bin\Release\ControlzEx.dll
+L:\Разработки C#\ReshaikaMVVM\ReshaikaMVVM\bin\Release\GalaSoft.MvvmLight.dll
+L:\Разработки C#\ReshaikaMVVM\ReshaikaMVVM\bin\Release\GalaSoft.MvvmLight.Extras.dll
+L:\Разработки C#\ReshaikaMVVM\ReshaikaMVVM\bin\Release\GalaSoft.MvvmLight.Platform.dll
+L:\Разработки C#\ReshaikaMVVM\ReshaikaMVVM\bin\Release\MahApps.Metro.dll
+L:\Разработки C#\ReshaikaMVVM\ReshaikaMVVM\bin\Release\System.Windows.Interactivity.dll
+L:\Разработки C#\ReshaikaMVVM\ReshaikaMVVM\bin\Release\ControlzEx.pdb
+L:\Разработки C#\ReshaikaMVVM\ReshaikaMVVM\bin\Release\GalaSoft.MvvmLight.pdb
+L:\Разработки C#\ReshaikaMVVM\ReshaikaMVVM\bin\Release\GalaSoft.MvvmLight.xml
+L:\Разработки C#\ReshaikaMVVM\ReshaikaMVVM\bin\Release\GalaSoft.MvvmLight.Extras.pdb
+L:\Разработки C#\ReshaikaMVVM\ReshaikaMVVM\bin\Release\GalaSoft.MvvmLight.Extras.xml
+L:\Разработки C#\ReshaikaMVVM\ReshaikaMVVM\bin\Release\GalaSoft.MvvmLight.Platform.pdb
+L:\Разработки C#\ReshaikaMVVM\ReshaikaMVVM\bin\Release\GalaSoft.MvvmLight.Platform.xml
+L:\Разработки C#\ReshaikaMVVM\ReshaikaMVVM\bin\Release\MahApps.Metro.pdb
+L:\Разработки C#\ReshaikaMVVM\ReshaikaMVVM\bin\Release\MahApps.Metro.xml
+L:\Разработки C#\ReshaikaMVVM\ReshaikaMVVM\obj\Release\ReshaikaMVVM.csprojAssemblyReference.cache
+L:\Разработки C#\ReshaikaMVVM\ReshaikaMVVM\obj\Release\MainWindow.g.cs
+L:\Разработки C#\ReshaikaMVVM\ReshaikaMVVM\obj\Release\Views\GameEndView.g.cs
+L:\Разработки C#\ReshaikaMVVM\ReshaikaMVVM\obj\Release\Views\GameView.g.cs
+L:\Разработки C#\ReshaikaMVVM\ReshaikaMVVM\obj\Release\Views\InputNameView.g.cs
+L:\Разработки C#\ReshaikaMVVM\ReshaikaMVVM\obj\Release\Views\InputOtherSetView.g.cs
+L:\Разработки C#\ReshaikaMVVM\ReshaikaMVVM\obj\Release\App.g.cs
+L:\Разработки C#\ReshaikaMVVM\ReshaikaMVVM\obj\Release\GeneratedInternalTypeHelper.g.cs
+L:\Разработки C#\ReshaikaMVVM\ReshaikaMVVM\obj\Release\ReshaikaMVVM_MarkupCompile.cache
+L:\Разработки C#\ReshaikaMVVM\ReshaikaMVVM\obj\Release\ReshaikaMVVM_MarkupCompile.lref
+L:\Разработки C#\ReshaikaMVVM\ReshaikaMVVM\obj\Release\App.baml
+L:\Разработки C#\ReshaikaMVVM\ReshaikaMVVM\obj\Release\MainWindow.baml
+L:\Разработки C#\ReshaikaMVVM\ReshaikaMVVM\obj\Release\Views\GameEndView.baml
+L:\Разработки C#\ReshaikaMVVM\ReshaikaMVVM\obj\Release\Views\GameView.baml
+L:\Разработки C#\ReshaikaMVVM\ReshaikaMVVM\obj\Release\Views\InputNameView.baml
+L:\Разработки C#\ReshaikaMVVM\ReshaikaMVVM\obj\Release\Views\InputOtherSetView.baml
+L:\Разработки C#\ReshaikaMVVM\ReshaikaMVVM\obj\Release\ReshaikaMVVM.g.resources
+L:\Разработки C#\ReshaikaMVVM\ReshaikaMVVM\obj\Release\ReshaikaMVVM.Properties.Resources.resources
+L:\Разработки C#\ReshaikaMVVM\ReshaikaMVVM\obj\Release\ReshaikaMVVM.csproj.GenerateResource.cache
+L:\Разработки C#\ReshaikaMVVM\ReshaikaMVVM\obj\Release\ReshaikaMVVM.csproj.CoreCompileInputs.cache
+L:\Разработки C#\ReshaikaMVVM\ReshaikaMVVM\obj\Release\ReshaikaMVVM.csproj.CopyComplete
+L:\Разработки C#\ReshaikaMVVM\ReshaikaMVVM\obj\Release\ReshaikaMVVM.exe
+L:\Разработки C#\ReshaikaMVVM\ReshaikaMVVM\obj\Release\ReshaikaMVVM.pdb
+L:\Разработки C#\Курсовая\ReshaikaMVVM\ReshaikaMVVM\bin\Release\ReshaikaMVVM.exe.config
+L:\Разработки C#\Курсовая\ReshaikaMVVM\ReshaikaMVVM\bin\Release\ReshaikaMVVM.exe
+L:\Разработки C#\Курсовая\ReshaikaMVVM\ReshaikaMVVM\bin\Release\ReshaikaMVVM.pdb
+L:\Разработки C#\Курсовая\ReshaikaMVVM\ReshaikaMVVM\bin\Release\CommonServiceLocator.dll
+L:\Разработки C#\Курсовая\ReshaikaMVVM\ReshaikaMVVM\bin\Release\ControlzEx.dll
+L:\Разработки C#\Курсовая\ReshaikaMVVM\ReshaikaMVVM\bin\Release\GalaSoft.MvvmLight.dll
+L:\Разработки C#\Курсовая\ReshaikaMVVM\ReshaikaMVVM\bin\Release\GalaSoft.MvvmLight.Extras.dll
+L:\Разработки C#\Курсовая\ReshaikaMVVM\ReshaikaMVVM\bin\Release\GalaSoft.MvvmLight.Platform.dll
+L:\Разработки C#\Курсовая\ReshaikaMVVM\ReshaikaMVVM\bin\Release\MahApps.Metro.dll
+L:\Разработки C#\Курсовая\ReshaikaMVVM\ReshaikaMVVM\bin\Release\System.Windows.Interactivity.dll
+L:\Разработки C#\Курсовая\ReshaikaMVVM\ReshaikaMVVM\bin\Release\ControlzEx.pdb
+L:\Разработки C#\Курсовая\ReshaikaMVVM\ReshaikaMVVM\bin\Release\GalaSoft.MvvmLight.pdb
+L:\Разработки C#\Курсовая\ReshaikaMVVM\ReshaikaMVVM\bin\Release\GalaSoft.MvvmLight.xml
+L:\Разработки C#\Курсовая\ReshaikaMVVM\ReshaikaMVVM\bin\Release\GalaSoft.MvvmLight.Extras.pdb
+L:\Разработки C#\Курсовая\ReshaikaMVVM\ReshaikaMVVM\bin\Release\GalaSoft.MvvmLight.Extras.xml
+L:\Разработки C#\Курсовая\ReshaikaMVVM\ReshaikaMVVM\bin\Release\GalaSoft.MvvmLight.Platform.pdb
+L:\Разработки C#\Курсовая\ReshaikaMVVM\ReshaikaMVVM\bin\Release\GalaSoft.MvvmLight.Platform.xml
+L:\Разработки C#\Курсовая\ReshaikaMVVM\ReshaikaMVVM\bin\Release\MahApps.Metro.pdb
+L:\Разработки C#\Курсовая\ReshaikaMVVM\ReshaikaMVVM\bin\Release\MahApps.Metro.xml
+L:\Разработки C#\Курсовая\Launcher\Launcher\bin\Release\Reshaika\ReshaikaMVVM.exe.config
+L:\Разработки C#\Курсовая\Launcher\Launcher\bin\Release\Reshaika\ReshaikaMVVM.exe
+L:\Разработки C#\Курсовая\Launcher\Launcher\bin\Release\Reshaika\ReshaikaMVVM.pdb
+L:\Разработки C#\Курсовая\ReshaikaMVVM\ReshaikaMVVM\obj\Release\ReshaikaMVVM.csprojResolveAssemblyReference.cache
+L:\Разработки C#\Курсовая\ReshaikaMVVM\ReshaikaMVVM\obj\Release\MainWindow.g.cs
+L:\Разработки C#\Курсовая\ReshaikaMVVM\ReshaikaMVVM\obj\Release\Views\GameEndView.g.cs
+L:\Разработки C#\Курсовая\ReshaikaMVVM\ReshaikaMVVM\obj\Release\Views\GameView.g.cs
+L:\Разработки C#\Курсовая\ReshaikaMVVM\ReshaikaMVVM\obj\Release\Views\InputNameView.g.cs
+L:\Разработки C#\Курсовая\ReshaikaMVVM\ReshaikaMVVM\obj\Release\Views\InputOtherSetView.g.cs
+L:\Разработки C#\Курсовая\ReshaikaMVVM\ReshaikaMVVM\obj\Release\App.g.cs
+L:\Разработки C#\Курсовая\ReshaikaMVVM\ReshaikaMVVM\obj\Release\GeneratedInternalTypeHelper.g.cs
+L:\Разработки C#\Курсовая\ReshaikaMVVM\ReshaikaMVVM\obj\Release\ReshaikaMVVM_MarkupCompile.cache
+L:\Разработки C#\Курсовая\ReshaikaMVVM\ReshaikaMVVM\obj\Release\ReshaikaMVVM_MarkupCompile.lref
+L:\Разработки C#\Курсовая\ReshaikaMVVM\ReshaikaMVVM\obj\Release\App.baml
+L:\Разработки C#\Курсовая\ReshaikaMVVM\ReshaikaMVVM\obj\Release\MainWindow.baml
+L:\Разработки C#\Курсовая\ReshaikaMVVM\ReshaikaMVVM\obj\Release\Views\GameEndView.baml
+L:\Разработки C#\Курсовая\ReshaikaMVVM\ReshaikaMVVM\obj\Release\Views\GameView.baml
+L:\Разработки C#\Курсовая\ReshaikaMVVM\ReshaikaMVVM\obj\Release\Views\InputNameView.baml
+L:\Разработки C#\Курсовая\ReshaikaMVVM\ReshaikaMVVM\obj\Release\Views\InputOtherSetView.baml
+L:\Разработки C#\Курсовая\ReshaikaMVVM\ReshaikaMVVM\obj\Release\ReshaikaMVVM.g.resources
+L:\Разработки C#\Курсовая\ReshaikaMVVM\ReshaikaMVVM\obj\Release\ReshaikaMVVM.Properties.Resources.resources
+L:\Разработки C#\Курсовая\ReshaikaMVVM\ReshaikaMVVM\obj\Release\ReshaikaMVVM.csproj.GenerateResource.Cache
+L:\Разработки C#\Курсовая\ReshaikaMVVM\ReshaikaMVVM\obj\Release\ReshaikaMVVM.exe
+L:\Разработки C#\Курсовая\ReshaikaMVVM\ReshaikaMVVM\obj\Release\ReshaikaMVVM.pdb
+D:\РАБОЧИЙ СТОЛ\Рабочий стол 28.01.2020\3 курс универ\Архитектура ИС\Launcher\Launcher\bin\Release\Reshaika\ReshaikaMVVM.exe.config
+D:\РАБОЧИЙ СТОЛ\Рабочий стол 28.01.2020\3 курс универ\Архитектура ИС\Launcher\Launcher\bin\Release\Reshaika\ReshaikaMVVM.exe
+D:\РАБОЧИЙ СТОЛ\Рабочий стол 28.01.2020\3 курс универ\Архитектура ИС\Launcher\Launcher\bin\Release\Reshaika\ReshaikaMVVM.pdb
+D:\РАБОЧИЙ СТОЛ\Рабочий стол 28.01.2020\3 курс универ\Архитектура ИС\ReshaikaMVVM\ReshaikaMVVM\obj\Release\MainWindow.g.cs
+D:\РАБОЧИЙ СТОЛ\Рабочий стол 28.01.2020\3 курс универ\Архитектура ИС\ReshaikaMVVM\ReshaikaMVVM\obj\Release\Views\GameEndView.g.cs
+D:\РАБОЧИЙ СТОЛ\Рабочий стол 28.01.2020\3 курс универ\Архитектура ИС\ReshaikaMVVM\ReshaikaMVVM\obj\Release\Views\GameView.g.cs
+D:\РАБОЧИЙ СТОЛ\Рабочий стол 28.01.2020\3 курс универ\Архитектура ИС\ReshaikaMVVM\ReshaikaMVVM\obj\Release\Views\InputNameView.g.cs
+D:\РАБОЧИЙ СТОЛ\Рабочий стол 28.01.2020\3 курс универ\Архитектура ИС\ReshaikaMVVM\ReshaikaMVVM\obj\Release\Views\InputOtherSetView.g.cs
+D:\РАБОЧИЙ СТОЛ\Рабочий стол 28.01.2020\3 курс универ\Архитектура ИС\ReshaikaMVVM\ReshaikaMVVM\obj\Release\App.g.cs
+D:\РАБОЧИЙ СТОЛ\Рабочий стол 28.01.2020\3 курс универ\Архитектура ИС\ReshaikaMVVM\ReshaikaMVVM\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\РАБОЧИЙ СТОЛ\Рабочий стол 28.01.2020\3 курс универ\Архитектура ИС\ReshaikaMVVM\ReshaikaMVVM\obj\Release\ReshaikaMVVM_MarkupCompile.cache
+D:\РАБОЧИЙ СТОЛ\Рабочий стол 28.01.2020\3 курс универ\Архитектура ИС\ReshaikaMVVM\ReshaikaMVVM\obj\Release\ReshaikaMVVM_MarkupCompile.lref
+D:\РАБОЧИЙ СТОЛ\Рабочий стол 28.01.2020\3 курс универ\Архитектура ИС\ReshaikaMVVM\ReshaikaMVVM\obj\Release\App.baml
+D:\РАБОЧИЙ СТОЛ\Рабочий стол 28.01.2020\3 курс универ\Архитектура ИС\ReshaikaMVVM\ReshaikaMVVM\obj\Release\MainWindow.baml
+D:\РАБОЧИЙ СТОЛ\Рабочий стол 28.01.2020\3 курс универ\Архитектура ИС\ReshaikaMVVM\ReshaikaMVVM\obj\Release\Views\GameEndView.baml
+D:\РАБОЧИЙ СТОЛ\Рабочий стол 28.01.2020\3 курс универ\Архитектура ИС\ReshaikaMVVM\ReshaikaMVVM\obj\Release\Views\GameView.baml
+D:\РАБОЧИЙ СТОЛ\Рабочий стол 28.01.2020\3 курс универ\Архитектура ИС\ReshaikaMVVM\ReshaikaMVVM\obj\Release\Views\InputNameView.baml
+D:\РАБОЧИЙ СТОЛ\Рабочий стол 28.01.2020\3 курс универ\Архитектура ИС\ReshaikaMVVM\ReshaikaMVVM\obj\Release\Views\InputOtherSetView.baml
+D:\РАБОЧИЙ СТОЛ\Рабочий стол 28.01.2020\3 курс универ\Архитектура ИС\ReshaikaMVVM\ReshaikaMVVM\obj\Release\ReshaikaMVVM.g.resources
+D:\РАБОЧИЙ СТОЛ\Рабочий стол 28.01.2020\3 курс универ\Архитектура ИС\ReshaikaMVVM\ReshaikaMVVM\obj\Release\ReshaikaMVVM.Properties.Resources.resources
+D:\РАБОЧИЙ СТОЛ\Рабочий стол 28.01.2020\3 курс универ\Архитектура ИС\ReshaikaMVVM\ReshaikaMVVM\obj\Release\ReshaikaMVVM.csproj.GenerateResource.cache
+D:\РАБОЧИЙ СТОЛ\Рабочий стол 28.01.2020\3 курс универ\Архитектура ИС\ReshaikaMVVM\ReshaikaMVVM\obj\Release\ReshaikaMVVM.csproj.CoreCompileInputs.cache
+D:\РАБОЧИЙ СТОЛ\Рабочий стол 28.01.2020\3 курс универ\Архитектура ИС\ReshaikaMVVM\ReshaikaMVVM\obj\Release\ReshaikaMVVM.csproj.CopyComplete
+D:\РАБОЧИЙ СТОЛ\Рабочий стол 28.01.2020\3 курс универ\Архитектура ИС\ReshaikaMVVM\ReshaikaMVVM\obj\Release\ReshaikaMVVM.exe
+D:\РАБОЧИЙ СТОЛ\Рабочий стол 28.01.2020\3 курс универ\Архитектура ИС\ReshaikaMVVM\ReshaikaMVVM\obj\Release\ReshaikaMVVM.pdb
+D:\РАБОЧИЙ СТОЛ\Рабочий стол 28.01.2020\3 курс универ\Архитектура ИС\ReshaikaMVVM\ReshaikaMVVM\bin\Release\ReshaikaMVVM.exe.config
+D:\РАБОЧИЙ СТОЛ\Рабочий стол 28.01.2020\3 курс универ\Архитектура ИС\ReshaikaMVVM\ReshaikaMVVM\bin\Release\ReshaikaMVVM.exe
+D:\РАБОЧИЙ СТОЛ\Рабочий стол 28.01.2020\3 курс универ\Архитектура ИС\ReshaikaMVVM\ReshaikaMVVM\bin\Release\ReshaikaMVVM.pdb
+D:\РАБОЧИЙ СТОЛ\Рабочий стол 28.01.2020\3 курс универ\Архитектура ИС\ReshaikaMVVM\ReshaikaMVVM\bin\Release\CommonServiceLocator.dll
+D:\РАБОЧИЙ СТОЛ\Рабочий стол 28.01.2020\3 курс универ\Архитектура ИС\ReshaikaMVVM\ReshaikaMVVM\bin\Release\ControlzEx.dll
+D:\РАБОЧИЙ СТОЛ\Рабочий стол 28.01.2020\3 курс универ\Архитектура ИС\ReshaikaMVVM\ReshaikaMVVM\bin\Release\GalaSoft.MvvmLight.dll
+D:\РАБОЧИЙ СТОЛ\Рабочий стол 28.01.2020\3 курс универ\Архитектура ИС\ReshaikaMVVM\ReshaikaMVVM\bin\Release\GalaSoft.MvvmLight.Extras.dll
+D:\РАБОЧИЙ СТОЛ\Рабочий стол 28.01.2020\3 курс универ\Архитектура ИС\ReshaikaMVVM\ReshaikaMVVM\bin\Release\GalaSoft.MvvmLight.Platform.dll
+D:\РАБОЧИЙ СТОЛ\Рабочий стол 28.01.2020\3 курс универ\Архитектура ИС\ReshaikaMVVM\ReshaikaMVVM\bin\Release\MahApps.Metro.dll
+D:\РАБОЧИЙ СТОЛ\Рабочий стол 28.01.2020\3 курс универ\Архитектура ИС\ReshaikaMVVM\ReshaikaMVVM\bin\Release\System.Windows.Interactivity.dll
+D:\РАБОЧИЙ СТОЛ\Рабочий стол 28.01.2020\3 курс универ\Архитектура ИС\ReshaikaMVVM\ReshaikaMVVM\bin\Release\ControlzEx.pdb
+D:\РАБОЧИЙ СТОЛ\Рабочий стол 28.01.2020\3 курс универ\Архитектура ИС\ReshaikaMVVM\ReshaikaMVVM\bin\Release\GalaSoft.MvvmLight.pdb
+D:\РАБОЧИЙ СТОЛ\Рабочий стол 28.01.2020\3 курс универ\Архитектура ИС\ReshaikaMVVM\ReshaikaMVVM\bin\Release\GalaSoft.MvvmLight.xml
+D:\РАБОЧИЙ СТОЛ\Рабочий стол 28.01.2020\3 курс универ\Архитектура ИС\ReshaikaMVVM\ReshaikaMVVM\bin\Release\GalaSoft.MvvmLight.Extras.pdb
+D:\РАБОЧИЙ СТОЛ\Рабочий стол 28.01.2020\3 курс универ\Архитектура ИС\ReshaikaMVVM\ReshaikaMVVM\bin\Release\GalaSoft.MvvmLight.Extras.xml
+D:\РАБОЧИЙ СТОЛ\Рабочий стол 28.01.2020\3 курс универ\Архитектура ИС\ReshaikaMVVM\ReshaikaMVVM\bin\Release\GalaSoft.MvvmLight.Platform.pdb
+D:\РАБОЧИЙ СТОЛ\Рабочий стол 28.01.2020\3 курс универ\Архитектура ИС\ReshaikaMVVM\ReshaikaMVVM\bin\Release\GalaSoft.MvvmLight.Platform.xml
+D:\РАБОЧИЙ СТОЛ\Рабочий стол 28.01.2020\3 курс универ\Архитектура ИС\ReshaikaMVVM\ReshaikaMVVM\bin\Release\MahApps.Metro.pdb
+D:\РАБОЧИЙ СТОЛ\Рабочий стол 28.01.2020\3 курс универ\Архитектура ИС\ReshaikaMVVM\ReshaikaMVVM\bin\Release\MahApps.Metro.xml

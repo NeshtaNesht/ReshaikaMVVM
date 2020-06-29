@@ -1,0 +1,22 @@
+﻿<UserControl x:Class="ReshaikaMVVM.InputOtherSetView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:Dialog="clr-namespace:MahApps.Metro.Controls.Dialogs;assembly=MahApps.Metro"
+             xmlns:local="clr-namespace:ReshaikaMVVM"
+             xmlns:mah="http://metro.mahapps.com/winfx/xaml/controls"
+             Dialog:DialogParticipation.Register="{Binding}"
+             mc:Ignorable="d" 
+             d:DesignHeight="371" d:DesignWidth="434">
+    <Grid>
+        <TextBox PreviewTextInput="tName_PreviewTextInput"  FontSize="30" HorizontalAlignment="Left" Height="55" Margin="141,40,0,0" x:Name="tName" TextWrapping="Wrap" Text="{Binding CurrentAmount, UpdateSourceTrigger=PropertyChanged}" VerticalAlignment="Top" Width="152" TextAlignment="Center" mah:TextBoxHelper.WatermarkAlignment="Center" MaxLength="2" TabIndex="1"/>
+        <ComboBox HorizontalAlignment="Left" Height="{Binding ElementName=tName, Path=Height}" Width="{Binding ElementName=tName, Path=Width}" ItemsSource="{Binding CurrentModeCollection}" SelectedItem="{Binding CurrentMode}" Margin="141,124,0,0" VerticalAlignment="Top" TabIndex="2"/>
+        <Button Command="{Binding SetOtherCommand}" CommandParameter="{Binding ElementName=tName, Path=Text}" x:Name="button" Content="Начать" Margin="128,278,127,10" VerticalAlignment="Center" Height="83" FontSize="29" FontWeight="ExtraLight" TabIndex="4" IsDefault="True"/>
+
+        <ComboBox HorizontalAlignment="Left" Height="{Binding ElementName=tName, Path=Height}" Width="{Binding ElementName=tName, Path=Width}" ItemsSource="{Binding CurrentHardCollection}" SelectedItem="{Binding CurrentHard}" Margin="141,200,0,0" VerticalAlignment="Top" TabIndex="3"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,55,0,0" TextWrapping="Wrap" FontSize="16" Text="Число вопросов" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="81,138,0,0" TextWrapping="Wrap" FontSize="16" Text="Режим" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="50,218,0,0" TextWrapping="Wrap" FontSize="16" Text="Сложность" VerticalAlignment="Top"/>
+    </Grid>
+</UserControl>

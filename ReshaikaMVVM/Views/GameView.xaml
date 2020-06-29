@@ -1,0 +1,32 @@
+﻿<UserControl x:Class="ReshaikaMVVM.Views.GameView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ReshaikaMVVM"
+             xmlns:Dialog="clr-namespace:MahApps.Metro.Controls.Dialogs;assembly=MahApps.Metro"
+             xmlns:Controls="http://metro.mahapps.com/winfx/xaml/controls"
+             xmlns:mah="http://metro.mahapps.com/winfx/xaml/controls"
+             Dialog:DialogParticipation.Register="{Binding}"
+             mc:Ignorable="d" 
+             d:DesignHeight="371" d:DesignWidth="434">
+    <UserControl.Resources>
+        <Style x:Key="SelectedTextBoxStyle" TargetType="{x:Type TextBox}">
+            <Style.Triggers>
+                <DataTrigger Binding="{Binding IsFocused1}" Value="True">
+                    <Setter Property="FocusManager.FocusedElement" 
+                Value="{Binding RelativeSource={RelativeSource Self}}" />
+                </DataTrigger>
+            </Style.Triggers>
+        </Style>
+    </UserControl.Resources>
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="10,30,0,0" TextWrapping="Wrap" Text="Решаем пример:" VerticalAlignment="Top" FontSize="36" FontWeight="Bold" Width="297"/>
+        <Label Content="{Binding CurrentNumberQ}" HorizontalAlignment="Left" Margin="321,30,0,0" VerticalAlignment="Top" FontSize="36"/>
+        <TextBlock Margin="75,92,75,205" TextWrapping="Wrap" Text="{Binding CurrentSample}" TextAlignment="Center" FontSize="36"/>
+        <TextBox PreviewTextInput="tAnswer_PreviewTextInput" x:Name="tAnswer" BorderBrush="{Binding ProgramColor}" Margin="112,171,112,0" Text="{Binding CurrentAnswer}" VerticalAlignment="Top" FontSize="36" TextAlignment="Center">
+            <Controls:TextBoxHelper.Watermark>Ваш ответ</Controls:TextBoxHelper.Watermark>
+        </TextBox>
+        <Button Command="{Binding SetNextSampleCommand}" CommandParameter="{Binding ElementName=tAnswer, Path=Text}" x:Name="button" Content="Далее" Margin="128,278,127,10" VerticalAlignment="Center" Height="83" FontSize="29" FontWeight="ExtraLight" TabIndex="4" IsDefault="True"/>
+    </Grid>
+</UserControl>
